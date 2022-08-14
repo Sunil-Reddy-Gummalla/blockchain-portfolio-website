@@ -291,7 +291,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Say Hi to Start Discusiion.",
-  email_address: "cryptobaba15076@gmail.com"
+  email_address: "gummalla.sunilreddy@gmail.com"
 };
 
 export {

@@ -18,7 +18,7 @@ const greeting = {
     "I am  Blockchain Developer 🚀 with a strong foundation in blockchain and smart contracts. A quick learner and a team player with a proven ability in problem solving and analysis."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1U5_rCBqEnml0ejqMBeyFkhxTvdwjwTet/view?usp=sharing", // Set to empty to hide the button
+    "https://docs.google.com/document/d/1-SRbmESMiXVEP8fxYCDIUCNlOYUHEKWe//export?format=pdf", // Set to empty to hide the button
   resumeName: "Sunil Reddy's Resume.pdf",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
